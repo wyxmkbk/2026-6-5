@@ -1,1 +1,2 @@
-gsjtseh
+
+print(10*"1")
